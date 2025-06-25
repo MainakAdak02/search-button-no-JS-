@@ -1,1 +1,1 @@
-# search-button-no-JS-
+# simple-search-button
